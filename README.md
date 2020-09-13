@@ -2,6 +2,8 @@
 
 ### I'm a programmer 
 
+
+[My gmail --> ](erick.farias@dcx.ufpb.br)
 <!--
 **ErickFernandes-Algnologia/ErickFernandes-Algnologia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
