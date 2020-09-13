@@ -1,5 +1,6 @@
 # My name is Erick Frenandes👋
-Python
+
+### I'm a programmer computer
 
 <!--
 **ErickFernandes-Algnologia/ErickFernandes-Algnologia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
