@@ -18,7 +18,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <br><br>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+<div><a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a></div>
 
 <br><br>
 
