@@ -32,7 +32,7 @@
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
 <br/>
-<img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width: 150px">
+
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
@@ -54,4 +54,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width: 150px">
 -->
