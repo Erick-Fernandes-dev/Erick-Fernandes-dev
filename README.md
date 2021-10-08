@@ -6,7 +6,7 @@
 
 #### My gmail :sunglasses:: 
 [erick.farias@dcx.ufpb.br](https://erick.farias@dcx.ufpb.br)
-
+[My Linkedin](https://www.linkedin.com/in/erick-fernandes-97ba411aa/)
 
 ## Languages and Tools 🚀:
 
