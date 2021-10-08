@@ -5,7 +5,7 @@
 #### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> I like to program every day  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 
 #### My gmail :sunglasses:: 
-[erick.farias@dcx.ufpb.br](https://erick.farias@dcx.ufpb.br)
+[erick.farias@dcx.ufpb.br](https://erick.farias@dcx.ufpb.br)</br>
 [My Linkedin](https://www.linkedin.com/in/erick-fernandes-97ba411aa/)
 
 ## Languages and Tools 🚀:
