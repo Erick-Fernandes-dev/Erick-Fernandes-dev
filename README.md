@@ -29,14 +29,11 @@
 <b>Let's  gooo </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
 <br />
 
-
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
 <br/>
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <!--
 
