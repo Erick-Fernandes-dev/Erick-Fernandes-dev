@@ -40,6 +40,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Fernandes-dev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Fernandes-dev&layout=compact&langs_count=7&theme=gotham"/>
 </div>
+  
+ ![Snake animation](https://github.com/Erick-Fernandes-dev/Erick-Fernandes-dev/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 
