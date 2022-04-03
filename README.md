@@ -25,20 +25,19 @@
 
 <br>
 
-<b>Let's  gooo </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
-<br />
-
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-<br />
-<br/>
-
-
 <div align="center">
   <a href="https://github.com/Erick-Fernandes-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Fernandes-dev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Fernandes-dev&layout=compact&langs_count=7&theme=gotham"/>
 </div>
  <br />
+<br/>
+
+<b>Let's  gooo </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
+<br />
+
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<br />
 <br/>
 
 <img align="justify" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />  
