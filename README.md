@@ -33,14 +33,16 @@
 <br />
 <br/>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <div align="center">
   <a href="https://github.com/Erick-Fernandes-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Fernandes-dev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Fernandes-dev&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-  
+ <br />
+<br/>
+
+<img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />  
 
 
 <!--
