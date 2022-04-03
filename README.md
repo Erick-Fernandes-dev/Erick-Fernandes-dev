@@ -50,7 +50,7 @@
 <a src="https://nodejs.org/"><img align="left"  src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 <img align="left"  src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/99937611/original/d1c6ac81f536b60b0df88472d3582cdc4ad644d4/spring-mvc-boot-application.png" alt="c logo" width="50">
 
-<br>
+<br><br>
 
 <div align="center">
   <a href="https://github.com/Erick-Fernandes-dev">
