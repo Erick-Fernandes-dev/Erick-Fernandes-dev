@@ -35,6 +35,12 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
+<div align="center">
+  <a href="https://github.com/ThatianeDeboleto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThatianeDeboleto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatianeDeboleto&layout=compact&langs_count=7&theme=gotham"/>
+</div>
+
 <!--
 
 
