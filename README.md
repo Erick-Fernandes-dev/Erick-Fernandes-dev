@@ -50,8 +50,7 @@
  <br />
 <br/>
 
-<b>Let's  gooo </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
-<br />
+
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
@@ -61,6 +60,8 @@
 
 
 <!--
+ <b>Let's  gooo </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
+<br />
 <div align="left">
     <p align="center">  
       <h3 align="center">
