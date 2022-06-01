@@ -13,18 +13,7 @@
  <div align="right">
     <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" height="200px" width="110px">
   </div>
-<div align="left">
-    <p align="center">  
-      <h3 align="center">
-        <img src="https://media.giphy.com/media/DS89v1NqpzCqA/giphy.gif" width="90px">
-        <img src="https://media.giphy.com/media/5xaOcLBK3ktpfSfLcVa/giphy.gif" width="50px">
-        <img src="https://media.giphy.com/media/QoUU3x1dH505y/giphy.gif" width="50px">
-        <img src="https://media.giphy.com/media/LncsBVKWzRKRpzEdMw/giphy.gif" width="50px">
-        <img src="https://media.giphy.com/media/KI9S4tfLdMaK4/giphy.gif" width="50px">
-        <img src="https://media.giphy.com/media/TlK63Er5sVKVBLMQVMY/giphy.gif" width="50px">
-      </h3>
-      <p align="center"><img src="https://media.giphy.com/media/ozdUAW4iETQS2OggkO/giphy.gif" width="100px"></p>
- </ div>
+
 
 ## Languages and Tools 🚀:
 
@@ -72,7 +61,18 @@
 
 
 <!--
-
+<div align="left">
+    <p align="center">  
+      <h3 align="center">
+        <img src="https://media.giphy.com/media/DS89v1NqpzCqA/giphy.gif" width="90px">
+        <img src="https://media.giphy.com/media/5xaOcLBK3ktpfSfLcVa/giphy.gif" width="50px">
+        <img src="https://media.giphy.com/media/QoUU3x1dH505y/giphy.gif" width="50px">
+        <img src="https://media.giphy.com/media/LncsBVKWzRKRpzEdMw/giphy.gif" width="50px">
+        <img src="https://media.giphy.com/media/KI9S4tfLdMaK4/giphy.gif" width="50px">
+        <img src="https://media.giphy.com/media/TlK63Er5sVKVBLMQVMY/giphy.gif" width="50px">
+      </h3>
+      <p align="center"><img src="https://media.giphy.com/media/ozdUAW4iETQS2OggkO/giphy.gif" width="100px"></p>
+ </ div>
 
 **ErickFernandes-Algnologia/ErickFernandes-Algnologia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img align="left" alt="Github" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
