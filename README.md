@@ -7,7 +7,7 @@
 #### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> I like to program every day  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 
 
-<a href = "[https://mail.google.com/erickfernandes.dev@gmail.com](https://mail.google.com/mail/u/3/#inbox)"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></br>
+<a href = "https://mail.google.com/mail/u/3/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/erick-fernandes-97ba411aa/)
 
 
