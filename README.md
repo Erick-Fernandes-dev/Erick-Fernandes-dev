@@ -72,6 +72,28 @@
 
 
 
+
+<br><br>
+
+<div align="center">
+  <a href="https://github.com/Erick-Fernandes-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Fernandes-dev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Fernandes-dev&layout=compact&langs_count=7&theme=gotham"/>
+</div>
+ <br />
+<br/>
+
+
+
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<br />
+<br/>
+
+
+
+
+<!--
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -94,26 +116,9 @@
 <a src="https://nodejs.org/"><img align="left"  src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 <img align="left"  src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/99937611/original/d1c6ac81f536b60b0df88472d3582cdc4ad644d4/spring-mvc-boot-application.png" alt="c logo" width="50">
 
-<br><br>
-
-<div align="center">
-  <a href="https://github.com/Erick-Fernandes-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Fernandes-dev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Fernandes-dev&layout=compact&langs_count=7&theme=gotham"/>
-</div>
- <br />
-<br/>
 
 
 
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-<br />
-<br/>
-
-
-
-
-<!--
  <b>Let's  gooo </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
 <br />
 <div align="left">
