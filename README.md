@@ -68,8 +68,6 @@
 </div>
  <br />
 <br/>
-<img align="left" alt="kuber" width="26px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" />
- 
 
   ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
