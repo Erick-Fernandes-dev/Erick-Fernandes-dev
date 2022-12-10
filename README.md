@@ -69,7 +69,7 @@
  <br />
 <br/>
 
-  ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+  ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif#center)
 <br />
 <br/>
 
