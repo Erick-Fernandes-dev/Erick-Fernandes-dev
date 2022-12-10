@@ -16,7 +16,9 @@
 ## Languages and Tools 🚀:
 
 ---
-### 💻:keyboard: Languages and Tools 
+### 💻:keyboard: Languages and Tools
+
+### Languages<sup>*</sup>
 
   **Python**:
   [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
@@ -40,7 +42,7 @@
  [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
-### Tools
+### Tools 🛠
 
 **Software Development:**
 [![Eclipse IDE](https://img.shields.io/badge/-darkblue?style=flat&logo=Eclipse-IDE&logoColor=white&link=https://github.com/Quananhle "Eclipse IDE")](https://github.com/Quananhle)
