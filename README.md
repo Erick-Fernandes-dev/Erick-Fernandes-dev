@@ -2,8 +2,9 @@
 
 # (<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" />)  My name is Erick Fernandes</img>
 
+<center>
 ###  I'm a programmer 
-
+</center>
 #### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> I like to program every day  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 
 
