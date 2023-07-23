@@ -11,10 +11,8 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 [![](https://img.shields.io/badge/LinkedIn-erickfernandesdev-blue)](https://www.linkedin.com/in/erickfernandes-dev/)
+[![](https://img.shields.io/badge/Gmail-erickfernandes.dev%40gmail.com-red)](erickfernandes.dev@gmail.com)
 
-
-<a href = "https://mail.google.com/mail/u/3/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></br>
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/erick-fernandes-97ba411aa/)
 
 
 ---
@@ -82,6 +80,13 @@
 
 
 <!--
+
+---
+
+<a href = "https://mail.google.com/mail/u/3/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></br>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/erick-fernandes-97ba411aa/)
+
+---
 [![Android Studio](https://img.shields.io/badge/-3DDC84?style=flat&logo=Android-Studio&logoColor=white&link=https://github.com/Quananhle "Android Studio" )](https://github.com/Quananhle)
 [![Emacs](https://img.shields.io/badge/-7F5AB6?style=flat&logo=GNU-Emacs&logoColor=white&link=https://github.com/Quananhle "Emacs")](https://github.com/Quananhle)
 [![RStudio](https://img.shields.io/badge/-75AADB?style=flat&logo=RStudio&logoColor=white&link=https://github.com/Quananhle "RStudio")](https://github.com/Quananhle)
