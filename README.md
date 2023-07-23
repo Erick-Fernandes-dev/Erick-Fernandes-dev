@@ -4,6 +4,11 @@
 
 
 ###  I'm a programmer 
+---
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+[![](https://img.shields.io/badge/LinkedIn-erickfernandesdev-blue)](https://www.linkedin.com/in/erickfernandes-dev/)
 
 #### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> I like to program every day  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 
@@ -73,10 +78,6 @@
   ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif#center)
 <br />
 <br/>
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-[![](https://img.shields.io/badge/LinkedIn-erickfernandesdev-blue)](https://www.linkedin.com/in/erickfernandes-dev/)
 
 
 
