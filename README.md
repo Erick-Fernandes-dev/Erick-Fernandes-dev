@@ -74,6 +74,9 @@
 <br />
 <br/>
 
+<h3> 🤝🏻 Connect with Me </h3>
+
+[![](https://img.shields.io/badge/LinkedIn-erickfernandesdev-blue)](https://www.linkedin.com/in/erickfernandes-dev/)
 
 
 
