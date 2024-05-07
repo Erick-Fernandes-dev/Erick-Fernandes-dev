@@ -16,8 +16,8 @@
 
 
 ---
-### 💻:keyboard: Languages and Tools🚀
-
+### 💻Languages and Tools🚀
+---
 ### Languages ⚔️
 
   **Python**:
