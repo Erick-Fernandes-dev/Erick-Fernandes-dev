@@ -116,6 +116,13 @@
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+[website]: https://souravdey777.github.io/Portfolio/
+[twitter]: https://twitter.com/Souravdey777
+[youtube]: https://youtube.com/
+[instagram]: https://www.instagram.com/souravdey777/
+[linkedin]: https://www.linkedin.com/in/sourav-dey/
+[medium]: https://medium.com/@Souravdey777/
 <!--
 
 ---
