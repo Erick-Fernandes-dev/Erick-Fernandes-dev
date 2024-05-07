@@ -8,14 +8,6 @@
 #### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> I like to program every day  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 ---
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-[![](https://img.shields.io/badge/LinkedIn-erickfernandesdev-blue)](https://www.linkedin.com/in/erickfernandes-dev/)
-[![](https://img.shields.io/badge/Gmail-erickfernandes.dev%40gmail.com-red)](erickfernandes.dev@gmail.com)
-
-
-
----
 ### 💻Languages and Tools🚀
 ---
 ### Languages ⚔️
@@ -123,12 +115,19 @@
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
+[![](https://img.shields.io/badge/Gmail-erickfernandes.dev%40gmail.com-red)](erickfernandes.dev@gmail.com)
+
 [website]: https://github.com/Erick-Fernandes-dev
 [instagram]: https://www.instagram.com/erick.farias_engdevops/
 [linkedin]: https://www.linkedin.com/in/erickfernandes-dev/
 <!--
 
 ---
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+[![](https://img.shields.io/badge/LinkedIn-erickfernandesdev-blue)](https://www.linkedin.com/in/erickfernandes-dev/)
 
 <a href = "https://mail.google.com/mail/u/3/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/erick-fernandes-97ba411aa/)
