@@ -160,6 +160,7 @@
 
 
 ![gmail](https://img.shields.io/badge/Gmail-erickfernandes.dev%40gmail.com-red)](erickfernandes.dev@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-erickfernandes.dev%40gmail.com?style=for-the-badge&logo=gmail&logoColor=white)(erickfernandes.dev@gmail.com)
 
 [website]: https://github.com/Erick-Fernandes-dev
 [instagram]: https://www.instagram.com/erick.farias_engdevops/
