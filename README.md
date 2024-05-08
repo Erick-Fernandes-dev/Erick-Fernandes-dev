@@ -68,6 +68,9 @@
 **Container:**
 [![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=Docker&logoColor=white&link=https://github.com/Quananhle "Docker")](https://github.com/Quananhle)
 
+**Messaging:**
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
+
 **OS:**
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
