@@ -89,7 +89,7 @@
 
 **Observability:**
 <img align="center" alt="MReis-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
-<img  align="center" alt="MReis-Grafana" height="30" width="40" src=https://camo.githubusercontent.com/3df303a0654152966c3a04e714040739d4050aa30313fcd4c5d13da82e1d6726/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d47726166616e612d3030303f266c6f676f3d47726166616e61>
+<img  align="center" alt="MReis-Grafana" height="50" width="50" src="https://camo.githubusercontent.com/bfc02ed758fe74fd49e99c2573b92c9f55f3218adde23bf62b49b045d3c0c59e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50726f6d6574686575732d3030303f266c6f676f3d50726f6d657468657573">
 
 **Accommodations:**
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
